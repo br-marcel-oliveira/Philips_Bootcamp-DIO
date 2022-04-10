@@ -12,10 +12,15 @@ body{
 }
 
 .margin{
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 	padding-top: 10px;
 }
 
 .parceiros{
 	background-color: #A9E2F3;
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
 }
