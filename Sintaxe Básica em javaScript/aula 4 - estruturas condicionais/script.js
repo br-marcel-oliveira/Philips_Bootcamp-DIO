@@ -89,7 +89,7 @@ var a = 0;
     console.log(a);
 } */
 
-do{
+do {
     a++;
     console.log(a);
-} while(a < 10)
+} while (a < 10)
